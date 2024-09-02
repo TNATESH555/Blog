@@ -1,0 +1,104 @@
+.water{width: 400px;
+height: 250px;
+float: left;
+padding: 5px;
+}
+
+.wat{height: 320px;
+width: 900px;
+}
+
+.wat{
+    width: 60%;
+    margin-left: 20% ;
+}
+
+.waters{
+    width: 400px;
+    height: 250px;
+    float: left;
+    display: grid;
+    padding: 5px;  
+    }
+
+.waterss{
+    height: 350px;
+    padding: 10px;
+    width: 900px;
+}
+
+.waterss{
+    width: 60%;
+    margin-left: 20% ;
+}
+
+.water_big{
+    width: 800px;
+    height: 350px;
+}
+
+.error{color: red;
+font-size: small;}
+
+.linkfont{text-decoration: none;
+
+color: aliceblue;}
+
+.link{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.messbox{
+    margin-right: 25px;
+
+}
+
+.contactgrid{
+    height: 125%;
+    width: 50%;
+    margin-left: 450px;
+    margin-top:50px ;
+}
+
+.body{
+    padding-top: 50px;
+    height: 100px;
+}
+.success{color: green;
+font-size: larger;}
+
+.edit{
+    margin-left: 50px;
+}
+
+.astrix{
+    color: red;
+    font-size: large;
+}
+
+.check{
+
+    margin-right: 10px;
+}
+
+.date{
+    width: 500px;
+}
+.search{
+    position: relative;
+    left: 725px;
+   
+    }
+
+.button{
+    position: relative;
+    left: 827px;
+}
+
+.Edit{font-size: larger;
+font-weight: bold;
+}
+
+.confirm{padding-bottom: 5px;
+}
